@@ -11,7 +11,7 @@ def CoffeeMachine(menu_dict: dict, coins_dict: dict, water_amount: int, milk_amo
     Args:
         water_amount (int): Initial amount of water in ml.
         milk_amount (int): Initial amount of milk in ml.
-        coffee_amount (int): Initial amount of coffee in ml.
+        coffee_amount (int): Initial amount of coffee in g.
         money_amount (float): Initial amount of money in USD (in case the machine needs to give change to the first customers).
     """
     # Initialize coffee machine
