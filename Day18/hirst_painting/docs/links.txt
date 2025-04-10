@@ -1,0 +1,2 @@
+- CS111 Turtle Colors: https://cs111.wellesley.edu/reference/colors
+- Trinket Turtle Colors: https://trinket.io/docs/colors
