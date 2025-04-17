@@ -12,7 +12,7 @@ tim.speed("fastest")
 #Turtle Challenge 4 - Generating a Random Walk
 
 # Generate function to get random color
-def random_color() -> None:
+def random_color() -> tuple:
     '''
     Function that randomly selects a color for the next Turtle's object's trace, based on an RGB tuple,
     which is accepted in the color change functions from the Turtle library.
