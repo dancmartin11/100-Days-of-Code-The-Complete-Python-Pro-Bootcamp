@@ -4,7 +4,7 @@
 
 ---
 
-This folder contains all the scripts and resources created for the Pong Game Project, part of **Day 23** of _Udemy’s 100 Days of Code: The Complete Python Pro Bootcamp_, developed and taught by Dr. Angela Yu.
+This folder contains all the scripts and resources created for the Pong Game Project, part of **Day 22** of _Udemy’s 100 Days of Code: The Complete Python Pro Bootcamp_, developed and taught by Dr. Angela Yu.
 
 ## About this project
 
